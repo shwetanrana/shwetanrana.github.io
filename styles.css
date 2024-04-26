@@ -20,7 +20,7 @@ body {
 
 /* Introduction Section */
 #introduction {
-    background-image: url('images/your-image1.jpg');
+    background-color: #633b3b;
     background-size: cover;
     background-position: center;
     padding: 100px 0;
