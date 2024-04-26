@@ -50,6 +50,9 @@ body {
     width: 300px;
     height: 300px;
     margin: 0 auto;
+    position: absolute;
+    top: 20px; /* Adjust top position */
+    left: 20px; /* Adjust left position *
 }
 
 .profile-pic img {
