@@ -20,9 +20,18 @@ body {
 
 /* Introduction Section */
 #introduction {
-    background-color: #f0f0f0;
+    background-image: url('your-image.jpg');
+    background-size: cover;
+    background-position: center;
     padding: 100px 0;
     text-align: center;
+    color: #fff; /* Set text color to white for better visibility */
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 #introduction h1 {
