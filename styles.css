@@ -1,5 +1,5 @@
 body {
-    background-color: #008000; /* Pastel green color */
+    background-color: #FAF0E6; /* Pastel green color */
 
 /* Reset default styles */
 * {
@@ -20,7 +20,7 @@ body {
 
 /* Introduction Section */
 #introduction {
-    background-image: url('images/your-image.jpg');
+    background-image: url('images/your-image1.jpg');
     background-size: cover;
     background-position: center;
     padding: 100px 0;
