@@ -1,6 +1,6 @@
 body {
     background-color: #B0E0E6; /* Pastel green color */
-}
+
 /* Reset default styles */
 * {
     margin: 0;
@@ -96,4 +96,5 @@ body {
 
 .btn:hover {
     background-color: #555;
+}
 }
